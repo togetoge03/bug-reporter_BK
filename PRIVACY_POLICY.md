@@ -4,7 +4,7 @@
 
 ## 日本語
 
-最終更新日：2026年5月13日
+最終更新日：2026年5月1日
 
 ### 1. はじめに
 
@@ -24,10 +24,6 @@ Bug Reporter for BK（以下「本拡張機能」）は、Backlogへのバグレ
 
 - 閲覧中のページのスクリーンショット画像
 - ページURL・ブラウザ情報（OS、ブラウザ名・バージョン等）
-
-#### ユーザー操作によりローカルに保存される情報
-
-- ダウンロードボタンを押した場合、スクリーンショット画像がお使いのデバイスに保存されます。この操作はユーザーの明示的な操作によってのみ行われます。
 
 ### 3. 情報の利用目的
 
@@ -55,7 +51,7 @@ Bug Reporter for BK（以下「本拡張機能」）は、Backlogへのバグレ
 
 ## English
 
-Last updated: May 13, 2026
+Last updated: May 1, 2026
 
 ### 1. Overview
 
@@ -75,10 +71,6 @@ Bug Reporter for BK (the "Extension") is a Chrome extension that allows users to
 
 - Screenshots of the active browser tab
 - Page URL and browser environment details (OS, browser name and version, etc.)
-
-#### Saved locally by user action
-
-- When the user clicks the download button, a screenshot image is saved to their local device. This only occurs as a result of an explicit user action.
 
 ### 3. How Information Is Used
 
