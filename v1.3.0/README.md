@@ -41,7 +41,7 @@ Backlogへのバグ報告・課題コメントをワンクリックで送信で�
 
 ## プライバシーポリシー
 
-[プライバシーポリシー](https://github.com/togetoge03/bug-reporter_BK/tree/master/v1.3.0/PRIVACY_POLICY.md)
+[プライバシーポリシー](https://github.com/togetoge03/bug-reporter_BK/blob/master/v1.3.0/PRIVACY_POLICY.md)
 
 ---
 
